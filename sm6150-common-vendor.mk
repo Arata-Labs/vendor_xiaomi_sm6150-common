@@ -130,6 +130,7 @@ PRODUCT_PACKAGES += \
     libC2D2 \
     libCB \
     libOpenCL \
+    libOpenCL_system \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
